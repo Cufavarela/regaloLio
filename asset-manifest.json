@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/regaloLio/static/css/main.a2d9b93d.css",
-    "main.js": "/regaloLio/static/js/main.21c5fec6.js",
+    "main.js": "/regaloLio/static/js/main.d4cf474c.js",
     "index.html": "/regaloLio/index.html",
     "main.a2d9b93d.css.map": "/regaloLio/static/css/main.a2d9b93d.css.map",
-    "main.21c5fec6.js.map": "/regaloLio/static/js/main.21c5fec6.js.map"
+    "main.d4cf474c.js.map": "/regaloLio/static/js/main.d4cf474c.js.map"
   },
   "entrypoints": [
     "static/css/main.a2d9b93d.css",
-    "static/js/main.21c5fec6.js"
+    "static/js/main.d4cf474c.js"
   ]
 }
