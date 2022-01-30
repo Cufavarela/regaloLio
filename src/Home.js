@@ -37,7 +37,8 @@ export const Home = () => {
         </p>
         <p className="lead">
           <a
-            href="https://drive.google.com/file/d/19gII4MNrE8xa_Z3cCUfvTQ9RG-rcAdiZ/view?usp=sharing"
+            // href="https://drive.google.com/file/d/19gII4MNrE8xa_Z3cCUfvTQ9RG-rcAdiZ/view?usp=sharing"
+            href="https://drive.google.com/uc?id=19gII4MNrE8xa_Z3cCUfvTQ9RG-rcAdiZ&export=download&authuser=0"
             className="btn btn-lg btn-primary fw-bold border-white"
           >
             GiftCard
