@@ -1,0 +1,33 @@
+.bg-cumple {
+  background-image: url("https://i.imgur.com/eLXfKVJ.jpg");
+  object-fit: cover;
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+}
+
+.bg-darky {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+}
+
+@media only screen and (max-width: 850px) {
+  .bg-cumple {
+    background-image: url("https://i.imgur.com/6PEvWpZ.jpg");
+  }
+
+  .bg-darky {
+    position: relative;
+    transform: none;
+    top: 0;
+    left: 0;
+    margin-right: 0;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}
