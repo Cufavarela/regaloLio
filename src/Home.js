@@ -4,7 +4,7 @@ export const Home = () => {
   return (
     <div className="bg-cumple w-100 h-100">
       <div className="text-center d-flex p-5 mx-auto flex-column bg-darky">
-        <h1>Feliz Cumple Lio!! 🎉</h1>
+        <h1>¡¡ Feliz Cumple Lio!! 🎉</h1>
         <p className="lead">
           Nuestro regalo para vos, además de las medias, es un día con los pibes
           en{" "}
@@ -14,7 +14,7 @@ export const Home = () => {
           >
             JetPark Argentina
           </a>
-          , no solo vas a disfrtar de nuestra compañia sino que también vas a
+          , no solo vas a disfrutar de nuestra compañía sino que también vas a
           vivir tu vuelo de bautismo en{" "}
           <a
             className="fw-bold text-decoration-none"
